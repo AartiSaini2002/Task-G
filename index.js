@@ -1,6 +1,7 @@
 // index.js
 // Author: Aarti Saini
-// Date: 2025-11-03
+// Date: 2025-11-02
+
 // Handles form validation, success message, and appending table rows (Task G)
 
 document.addEventListener("DOMContentLoaded", () => {
